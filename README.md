@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full Stack Developer | 🧠 AI Enthusiast | 💻 MERN Dev</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Building+cool+web+apps+%F0%9F%9A%80;Loves+React%2C+Node%2C+Python+and+AI;Let's+connect+and+create+magic!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Building+cool+web+apps+%F0%9F%9A%80;Loves+React%2C+Node%2C+PYthon+and+AI;Let's+connect+and+create+magic!" alt="Typing SVG" />
 </p>
 
 ---
